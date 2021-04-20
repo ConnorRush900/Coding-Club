@@ -3,7 +3,7 @@
 # This warms things up on frosty nights. 
 # It also has a fan that turns on if it gets too hot.
 # A sensor monitors and logs temperature to a csv file so that I can fine tune things.
-
+#you should add a sound system to alert anyone nearby that it's too hot or cold incase of the heating system not working 
 # REQUIREMENTS: sudo pip3 install RPi.bme280
 
 
